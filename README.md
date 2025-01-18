@@ -1,8 +1,7 @@
-# React + Vite
+# A Simple News App Using React JS 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here are some screenshots of the app:
 
-Currently, two official plugins are available:
+![n3](https://github.com/user-attachments/assets/59e7f0e5-f854-4ccd-874f-43769f33e0a5)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
